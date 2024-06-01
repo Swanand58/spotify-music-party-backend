@@ -34,5 +34,8 @@ Music Party Web Application using Spotify Api's
 - POST /rooms/{id}/pause: Pause song playback in a room.
 - POST /rooms/{id}/seek: Seek to a specific time in a song.
 
+## Authors
 
-
+- Swanand Sanjay Khonde
+- Ayushi Lonkar
+- Rutupriya Andurkar
