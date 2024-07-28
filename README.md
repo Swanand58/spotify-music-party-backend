@@ -38,4 +38,4 @@ Music Party Web Application using Spotify Api's
 
 - Swanand Sanjay Khonde
 - Ayushi Lonkar
-- Rutupriya Andurkar
+- Ritupriya Andurkar
